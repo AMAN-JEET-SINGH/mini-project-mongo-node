@@ -1,0 +1,17 @@
+{
+  "name": "mini-project-mongo-node",
+  "version": "1.0.0",
+  "description": "this is a mini project for using the mongo db in git page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  }
+}
